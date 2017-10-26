@@ -30,3 +30,4 @@ python-slugify
 # required by Images addon
 boto
 pillow
+selenium
